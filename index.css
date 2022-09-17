@@ -15,10 +15,11 @@ img{
 	padding: 5em 0 3em;
 }
 .divider{
+	opacity: 100%;
 	color: #00000000;
 	border-style: dotted none none;
-	border-color: white;
 	border-width: 1em;
+	border-color: #F48024;;
 	width: 20%;
 	margin: 0 auto;
 }
