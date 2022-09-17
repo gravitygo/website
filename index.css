@@ -1,0 +1,41 @@
+img{
+	border-radius: 50%;
+	width:500px;
+	height: 500px; 
+	margin-bottom: 3em;
+}
+.name:hover{
+	color: #0dcaf0;
+}
+.container{
+	text-align: center;
+	font-size: 1.2em;
+}
+.content{
+	padding: 5em 0 3em;
+}
+.divider{
+	color: #00000000;
+	border-style: dotted none none;
+	border-color: white;
+	border-width: 1em;
+	width: 20%;
+	margin: 0 auto;
+}
+.icon{
+	color: #817f7f;
+	padding: 10px;
+	font-size: 1.25em;
+}
+.linkedin:hover{
+	color: #0077B5;
+}
+.discord:hover{
+	color: #7289da;
+}
+.stackoverflow:hover{
+	color: #F48024;
+}
+.github:hover{
+	color: #171515;
+}
